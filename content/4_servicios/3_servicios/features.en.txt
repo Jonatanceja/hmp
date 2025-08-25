@@ -1,0 +1,51 @@
+Title: Servicios
+
+----
+
+Headline: 
+
+----
+
+Features:
+
+- 
+  icon:
+    - file://xpbazkghgcdh3ohb
+  headline: 'Wave Soldering Machines & Reflow Oven Maintenance'
+  text: >
+    We provide specialized repair of gear
+    motors, restoring their performance and
+    extending their lifespan to keep your
+    equipment running reliably.
+  link: ""
+- 
+  icon:
+    - file://jyd2uqcwtri055mn
+  headline: Gear Motor Repair
+  text: >
+    We provide specialized repair of gear
+    motors, restoring their performance and
+    extending their lifespan to keep your
+    equipment running reliably.
+  link: ""
+- 
+  icon:
+    - file://yhyoyrpzb75xavvp
+  headline: Pump Repair
+  text: >
+    We repair all types of industrial pumps,
+    ensuring optimal operation and
+    preventing interruptions in your
+    production processes.
+  link: ""
+- 
+  icon:
+    - file://nnujssowvffnubti
+  headline: Air Conditioning Maintenance
+  text: >
+    We provide preventive and corrective
+    maintenance for industrial air
+    conditioning systems, ensuring
+    efficiency, comfort, and durability in
+    your facilities.
+  link: ""

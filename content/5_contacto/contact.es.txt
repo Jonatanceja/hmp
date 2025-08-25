@@ -1,0 +1,49 @@
+Title: Contacto
+
+----
+
+Headline: Contáctanos
+
+----
+
+Text: Comunícate con nosotros para cotizaciones, soporte técnico o más información sobre nuestros servicios y productos. Nuestro equipo responderá a la brevedad para brindarte la atención que mereces.
+
+----
+
+Advice:
+
+Llena el siguiente formulario y nuestro equipo te responderá a la brevedad.
+
+*Los campos marcados con asterisco son requeridos.*
+
+----
+
+Terms: page://t6szobfu02wqsut6
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Og-image: 
+
+----
+
+Cover: - file://wxnymtvnvocshnt3
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[],"id":"6b04c4f7-f253-4455-84fb-45e60976071a","width":"1/1"}],"id":"15e52af0-c964-4f62-854e-eb770fb0d275"}]
+
+----
+
+Uuid: gs3qv30eczaccnrk

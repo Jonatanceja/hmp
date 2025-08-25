@@ -1,0 +1,35 @@
+Title: Software
+
+----
+
+Squares:
+
+- 
+  icon:
+    - file://s0vdz3nsqomxfen7
+  title: Solidworks
+  text: >
+    Modelamos en 3D con precisión y
+    eficiencia para garantizar soluciones
+    funcionales y listas para producción.
+- 
+  icon:
+    - file://zx9j8ymqnesbar2m
+  title: Autocad
+  text: >
+    Planos técnicos detallados para
+    fabricación y proyectos industriales
+    con alta precisión.
+- 
+  icon:
+    - file://x7rsesjthcrqty1c
+  title: Surfcam
+  text: >
+    Software CAM avanzado para programación
+    CNC 2D, 3D y multiejes, ideal para
+    optimizar el maquinado de piezas con
+    alta precisión.
+
+----
+
+Uuid: 4ghwp7cwjgeo5a8h

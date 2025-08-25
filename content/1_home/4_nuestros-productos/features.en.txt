@@ -1,0 +1,43 @@
+Title: Nuestros productos
+
+----
+
+Headline: Nuestros Productos
+
+----
+
+Features:
+
+- 
+  icon:
+    - file://r8ucv52afkilvleh
+  headline: Fixtures
+  text: >
+    Precise solutions for positioning and
+    securing parts in manufacturing
+    processes.
+  link: page://t6szobfu02wqsut6
+- 
+  icon:
+    - file://ugpyndd1erkuugsu
+  headline: Racks
+  text: >
+    Robust systems for efficient storage and
+    handling of industrial materials.
+  link: page://aqmksjjzbs4aazkl
+- 
+  icon:
+    - file://atmwcwroucbrnwzu
+  headline: Magazine
+  text: >
+    Organized and secure storage for
+    components in production lines.
+  link: page://t6szobfu02wqsut6
+- 
+  icon:
+    - file://1ur6mddxx62gnpof
+  headline: Models
+  text: >
+    Industrial models designed to optimize
+    testing, simulations, and validations.
+  link: page://t6szobfu02wqsut6

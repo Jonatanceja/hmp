@@ -1,0 +1,17 @@
+Title: Introducción
+
+----
+
+Headline: Industrial Design, Integration & Development
+
+----
+
+Text: We provide specialized solutions for the industry, including manufacturing inspection services, industrial maintenance, and more — always focused on quality, innovation, and efficiency.
+
+----
+
+Buttontext: Watch Services
+
+----
+
+Buttonlink: page://fc2l9lnv6blobpxa

@@ -1,0 +1,40 @@
+Title: Recuadros de información
+
+----
+
+Squares:
+
+- 
+  title: Magazines
+  text: >
+    Optimiza el almacenamiento y
+    organización en tu planta con nuestros
+    racks industriales, diseñados para
+    máxima resistencia y eficiencia.
+  buttontext: Ver Magazines
+  buttonlink: page://t6szobfu02wqsut6
+  buttonntext: Ver Magazines
+- 
+  title: Productos
+  text: >
+    Descubre nuestra línea completa de
+    soluciones diseñadas para la industria.
+    Calidad, resistencia y eficiencia en
+    cada producto.
+  buttontext: Ver productos
+  buttonlink: page://t6szobfu02wqsut6
+  buttonntext: Ver productos
+- 
+  title: Solicita una cotización
+  text: >
+    ¿Interesado en nuestros productos o
+    servicios? Ponte en contacto con
+    nosotros y recibe una cotización
+    personalizada según tus necesidades.
+  buttontext: Contáctanos
+  buttonlink: page://gs3qv30eczaccnrk
+  buttonntext: Contáctanos
+
+----
+
+Uuid: asgcj5stvcq6lps6

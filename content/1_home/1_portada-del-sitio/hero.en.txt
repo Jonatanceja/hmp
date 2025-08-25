@@ -1,0 +1,33 @@
+Title: Portada del sitio
+
+----
+
+Cover: - file://z8mhktthed8plikk
+
+----
+
+Headline: High Manufacturing Products
+
+----
+
+Buttons:
+
+- 
+  label: About
+  icon:
+    - file://xhldwq8esodka3le
+  link: page://qqlzie3zhufs6ebg
+- 
+  label: Services
+  icon:
+    - file://zaypwc4vmpmsqnja
+  link: page://fc2l9lnv6blobpxa
+- 
+  label: Contact us
+  icon:
+    - file://xaeopp6nyr60oaer
+  link: page://gs3qv30eczaccnrk
+
+----
+
+Text: 

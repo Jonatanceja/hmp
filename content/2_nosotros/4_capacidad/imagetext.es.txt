@@ -1,0 +1,21 @@
+Title: Capacidad
+
+----
+
+Pic: - file://k7tfsgw9jojuuz9a
+
+----
+
+Disposition: false
+
+----
+
+Headline: Capacidad de Manufactura
+
+----
+
+Text: Somos una empresa especializada en desarrollar procesos productivos basados en documentación técnica, planeación y manufactura con diversos materiales, para cumplir con los requerimientos del cliente y alcanzar objetivos mediante el control y evaluación de indicadores de producción, calidad y desempeño.
+
+----
+
+Uuid: q5i5fnewwgyami6m

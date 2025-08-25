@@ -1,0 +1,18 @@
+title: Recuadros de información
+fields:
+  squares:
+    type: structure
+    label: Recuadros
+    fields:
+      title:
+        type: text
+        label: Título
+      text:
+        type: textarea
+        label: Texto
+      buttonText:
+        type: text
+        label: Texto del botón
+      buttonLink:
+        type: link
+        label: Enlace del botón

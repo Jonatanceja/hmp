@@ -1,0 +1,41 @@
+title: Portada del sitio
+
+columns:
+  main:
+    width: 1/2
+    sections:
+      fields:
+        type: fields
+        fields:
+          cover:
+            type: files
+            size: large
+            label: Imagen de la portada
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              ratio: 16/9
+
+  sidebar:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          headline:
+            type: text
+            label: Título de la portada
+          buttons:
+            type: structure
+            label: Botones
+            fields:
+              label:
+                type: text
+                label: Etiqueta
+              icon:
+                type: files
+                label: Icono
+              link:
+                type: link
+                label: Enlace

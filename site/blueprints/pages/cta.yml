@@ -1,0 +1,14 @@
+title: Llamado a la acción
+fields:
+  headline:
+    type: text
+    label: Encabezado
+  text: 
+    type: textarea
+    label: Texto
+  buttonText:
+    type: text
+    label: Texto del botón
+  buttonLink:
+    type: link
+    label: Enlace del botón

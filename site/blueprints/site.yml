@@ -1,3 +1,75 @@
 title: Site
-preset: pages
-unlisted: true
+tabs:
+  content:
+    label: Páginas
+    icon: text
+    preset: pages
+    options:
+      url: false
+      status: false
+      delete: false
+    listed:
+      extends: sections/articles
+      headline: Páginas publicadas
+    drafts:
+      extends: sections/articles
+      headline: Borradores
+    unlisted:
+      extends: sections/articles
+      headline: Páginas sin publicar
+    templates:
+      - home
+      - about
+      - services
+      - products
+      - contact
+    
+
+  contact:
+    label: Contacto
+    icon: email
+    fields:
+      phone:
+        label: Teléfono 1
+        type: tel
+        width: 1/2
+      phone2:
+        label: Teléfono 2
+        type: tel
+        width: 1/2
+      email:
+        label: Correo electrónico
+        type: email
+        width: 1/2
+      whatsapp:
+        icon: whatsapp
+        label: Whatsapp
+        type: text
+        width: 1/2
+      address:
+        label: Dirección principal
+        type: text
+      facebook:
+        icon: facebook
+        label: Facebook
+        type: url
+        width: 1/2
+      Linkedin:
+        icon: linkedin
+        label: Linkedin
+        type: url
+        width: 1/2
+
+  seo:
+    label: SEO
+    icon: search
+    fields: 
+      description:
+        label: Descripción del sitio
+        type: textarea
+      pixel:
+        label: Pixel de Facebook
+        type: text
+      analytics:
+        label: Google Analytics
+        type: textarea

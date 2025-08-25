@@ -1,0 +1,55 @@
+Title: Acerca de
+
+----
+
+Headline: Acerca de
+
+----
+
+Features:
+
+- 
+  icon:
+    - file://i71mrodkbwquup8u
+  headline: Misión
+  text: >
+    Estamos dedicados a brindar productos
+    industriales que excedan los estándares
+    de calidad, con el propósito de
+    incrementar la competitividad de
+    nuestros clientes.
+  link: ""
+- 
+  icon:
+    - file://pumenz57xtq29ray
+  headline: Visión
+  text: >
+    Consolidarnos como una empresa de
+    soluciones y productos de alta
+    manufactura y precisión a nivel
+    Nacional e Internacional a través de
+    un proceso de mejora continua.
+  link: ""
+- 
+  icon:
+    - file://xd9y26cnrgyfo7la
+  headline: Políticas de Calidad
+  text: >
+    Proveer productos de nivel superior
+    dentro de los estándares de calidad que
+    rige a la industria en general.
+  link: ""
+- 
+  icon:
+    - file://rhoexmdot0mwqh5l
+  headline: Políticas Ambientales
+  text: >
+    Estamos comprometidos con la protección
+    del medio ambiente y la conservación de
+    recursos naturales, así como el
+    bienestar de la comunidad en general.
+  link: ""
+
+----
+
+Uuid: 4shzrhclvkiik5dt

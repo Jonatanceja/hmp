@@ -1,0 +1,21 @@
+Title: Diseño Industrial
+
+----
+
+Pic: - file://tbswsybcujuwlhax
+
+----
+
+Disposition: true
+
+----
+
+Headline: Diseño Industrial
+
+----
+
+Text: Desarrollamos soluciones de diseño industrial enfocadas en la funcionalidad, eficiencia y estética de productos y procesos, adaptándonos a las necesidades específicas de cada proyecto para optimizar la producción y la experiencia del usuario.
+
+----
+
+Uuid: p8doy2rb87zqy9m3

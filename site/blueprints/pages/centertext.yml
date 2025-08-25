@@ -1,0 +1,14 @@
+title: Texto centrado
+fields:
+  headline:
+    type: text
+    label: Título
+  text:
+    type: textarea
+    label: Texto
+  buttonText:
+    type: text
+    label: Texto del botón
+  buttonLink:
+    type: link
+    label: Enlace del botón

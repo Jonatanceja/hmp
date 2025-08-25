@@ -1,0 +1,36 @@
+title: Texto con Imagen
+columns:
+  file:
+    width: 1/2
+    sections:
+      fields:
+        type: fields
+        fields:
+          pic:
+            type: files
+            size: large
+            label: Imagen
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              ratio: 16/9
+          disposition:
+            type: toggle
+            label: Posicionamiento
+            text:
+              - Imagen a la izquierda
+              - Imagen a la derecha
+
+  text:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          headline:
+            type: text
+            label: Título
+          text:
+            type: textarea
+            label: Texto

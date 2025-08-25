@@ -1,0 +1,61 @@
+Title: Servicios
+
+----
+
+Headline: 
+
+----
+
+Features:
+
+- 
+  icon:
+    - file://xpbazkghgcdh3ohb
+  headline: >
+    Mantenimiento a soldadoras de ola y
+    hornos de reflujo
+  text: >
+    Garantizamos el correcto funcionamiento
+    de tus soldadoras de ola y hornos de
+    reflujo mediante mantenimiento
+    preventivo y correctivo, asegurando
+    calidad y eficiencia en tus procesos de
+    producción.
+  link: ""
+- 
+  icon:
+    - file://jyd2uqcwtri055mn
+  headline: Reparación de moto reductores
+  text: >
+    Ofrecemos reparación especializada de
+    moto reductores, restaurando su
+    rendimiento y prolongando su vida útil
+    para mantener tus equipos operando de
+    manera confiable.
+  link: ""
+- 
+  icon:
+    - file://yhyoyrpzb75xavvp
+  headline: Reparación de bombas
+  text: >
+    Reparamos todo tipo de bombas
+    industriales, garantizando su
+    funcionamiento óptimo y evitando
+    interrupciones en tus procesos
+    productivos.
+  link: ""
+- 
+  icon:
+    - file://nnujssowvffnubti
+  headline: Mantenimiento a Aires Acondicionados
+  text: >
+    Brindamos mantenimiento preventivo y
+    correctivo a sistemas de aire
+    acondicionado industrial, asegurando
+    eficiencia, confort y durabilidad en tus
+    instalaciones.
+  link: ""
+
+----
+
+Uuid: oiwrmatlcfpsxt8f

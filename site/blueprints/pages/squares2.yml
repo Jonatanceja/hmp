@@ -1,0 +1,16 @@
+title: Recuadros de información
+fields:
+  squares:
+    type: structure
+    label: Recuadros
+    fields:
+      icon:
+        type: files
+        label: Icono
+        max: 1
+      title:
+        type: text
+        label: Título
+      text:
+        type: textarea
+        label: Texto

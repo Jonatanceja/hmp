@@ -1,0 +1,36 @@
+Title: Recuadros de información
+
+----
+
+Squares:
+
+- 
+  title: Magazines
+  text: >
+    Optimize storage and organization in
+    your facility with our industrial racks,
+    built for maximum durability and
+    efficiency.
+  buttontext: Watch Magazines
+  buttonlink: page://t6szobfu02wqsut6
+  buttonntext: Ver Magazines
+- 
+  title: Products
+  text: >
+    Discover our full range of solutions
+    designed for industry. Quality,
+    durability, and efficiency in every
+    product.
+  buttontext: Watch products
+  buttonlink: page://t6szobfu02wqsut6
+  buttonntext: Ver productos
+- 
+  title: Request a Quote
+  text: >
+    Interested in our products or services?
+    Get in touch with us and receive a
+    personalized quote tailored to your
+    needs.
+  buttontext: Request a Quote
+  buttonlink: page://gs3qv30eczaccnrk
+  buttonntext: Contáctanos

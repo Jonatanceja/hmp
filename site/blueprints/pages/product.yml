@@ -1,0 +1,78 @@
+title: Producto
+icon: box
+
+tabs:
+  content:
+    label: Content
+    icon: text
+    sections:
+      info:
+        headline: Información del Producto
+        type: fields
+        fields:
+          gallery:
+            type: files
+            label: Galeria
+            layout: cards
+            size: small
+            image:
+              cover: true
+          description:
+            type: textarea
+            label: Descripción del Producto
+          contact_method:
+            type: select
+            label: Método de Contacto
+            options:
+              email: Correo electrónico
+              whatsapp: WhatsApp
+
+          contact_email:
+            type: email
+            label: Correo electrónico
+            when:
+              contact_method: email
+
+          contact_whatsapp:
+            type: text
+            label: Número de WhatsApp
+            placeholder: "+52 123 456 7890"
+            when:
+              contact_method: whatsapp
+              
+          extra:
+            type: structure
+            label: Información extra
+            fields:
+              title:
+                type: text
+                label: Título
+              text:
+                type: textarea
+                label: Texto
+  
+  seo:
+    label: SEO
+    icon: search
+    columns:
+      - width: 2/3
+        fields:
+          meta_title:
+            type: text
+            label: Meta Title
+            help: "El título que aparecerá en los resultados de búsqueda"
+          meta_description:
+            type: textarea
+            label: Meta Description
+            help: "Descripción breve para los motores de búsqueda"
+          meta_keywords:
+            type: tags
+            label: Meta Keywords
+            help: "Palabras clave separadas por comas"
+      - width: 1/3
+        fields:
+          og_image:
+            type: files
+            label: Open Graph Image
+            max: 1
+            help: "Imagen para compartir en redes sociales"

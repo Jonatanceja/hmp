@@ -1,0 +1,1 @@
+<div {{ $attributes->merge(['class' => 'text-gray-600 dark:text-gray-400 prose min-w-full text-lg'])}} >{{ $slot }}</div>

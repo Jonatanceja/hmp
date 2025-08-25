@@ -1,0 +1,12 @@
+title: Socios comerciales
+fields:
+  headline:
+    type: text
+    label: Encabezado
+  logos:
+    type: files
+    label: Logos
+    layout: cards
+    image:
+      background: white
+    

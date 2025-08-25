@@ -1,0 +1,17 @@
+Title: Introducción
+
+----
+
+Headline: Industrial Maintenance
+
+----
+
+Text: We provide preventive and corrective industrial maintenance services to ensure the operational continuity of your equipment, minimize downtime, and extend the lifespan of your facilities.
+
+----
+
+Buttontext: Inquire About Service
+
+----
+
+Buttonlink: page://gs3qv30eczaccnrk

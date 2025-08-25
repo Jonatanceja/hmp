@@ -1,0 +1,22 @@
+title: Características 
+fields:
+  headline:
+    type: text
+    label: Encabezado
+  features:
+    type: structure
+    label: Características
+    fields:
+      icon:
+        type: files
+        label: Icono
+      headline:
+        type: text
+        label: Título
+      text:
+        type: textarea
+        label: Texto
+      link:
+        type: link
+        label: Enlace
+  

@@ -1,0 +1,41 @@
+Title: Servicios
+
+----
+
+Squares:
+
+- 
+  icon:
+    - file://f4pw54uwujivfkik
+  title: Solutions Provider
+  text: >
+    We are your trusted provider of
+    innovative, efficient, and tailored
+    industrial solutions.
+- 
+  icon:
+    - file://iuupgght6viabjj4
+  title: Technical Support
+  text: >
+    We offer specialized technical support
+    to keep your processes running smoothly,
+    with fast response and effective
+    solutions.
+- 
+  icon:
+    - file://zkzswrqdufud1evz
+  title: HMP Staff
+  text: >
+    We have a highly trained team committed
+    to quality, efficiency, and continuous
+    improvement at every stage of the
+    process.
+- 
+  icon:
+    - file://4xccqmhf2b2aeo2n
+  title: Product Warranty
+  text: >
+    We back the quality of our products with
+    a warranty, ensuring proper functioning
+    and providing support in case of any
+    issues.

@@ -1,0 +1,50 @@
+Title: Acerca de
+
+----
+
+Headline: Acerca de
+
+----
+
+Features:
+
+- 
+  icon:
+    - file://i71mrodkbwquup8u
+  headline: Mission
+  text: >
+    We are dedicated to providing industrial
+    products that exceed quality standards,
+    with the aim of increasing the
+    competitiveness of our clients.
+  link: ""
+- 
+  icon:
+    - file://pumenz57xtq29ray
+  headline: Vision
+  text: >
+    To establish ourselves as a company
+    offering high-precision, high-quality
+    solutions and products at both national
+    and international levels through a
+    process of continuous improvement.
+  link: ""
+- 
+  icon:
+    - file://xd9y26cnrgyfo7la
+  headline: Quality Policies
+  text: >
+    To provide superior-level products
+    within the quality standards that govern
+    the industry in general.
+  link: ""
+- 
+  icon:
+    - file://rhoexmdot0mwqh5l
+  headline: Environmental Policies
+  text: >
+    We are committed to protecting the
+    environment and conserving natural
+    resources, as well as promoting the
+    well-being of the community at large.
+  link: ""

@@ -1,0 +1,21 @@
+Title: Introducción
+
+----
+
+Headline: Diseño Industrial, Integración y Desarrollo
+
+----
+
+Text: Ofrecemos soluciones especializadas para la industria en general, incluyendo servicios de inspección de manufactura, mantenimiento industrial y más, con un enfoque en calidad, innovación y eficiencia.
+
+----
+
+Buttontext: Ver Servicios
+
+----
+
+Buttonlink: page://fc2l9lnv6blobpxa
+
+----
+
+Uuid: laydfgacqphvrlso

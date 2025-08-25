@@ -1,0 +1,17 @@
+Title: Home
+
+----
+
+Meta-title: Industrial Solutions
+
+----
+
+Meta-description: We provide specialized services for the industry, including manufacturing inspection, industrial maintenance, and much more.
+
+----
+
+Meta-keywords: 
+
+----
+
+Og-image: 

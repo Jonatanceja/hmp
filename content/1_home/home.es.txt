@@ -1,0 +1,21 @@
+Title: Inicio
+
+----
+
+Meta-title: Soluciones Industriales
+
+----
+
+Meta-description: Ofrecemos servicios especializados para la industria en general, incluyendo inspección de manufactura, mantenimiento industrial y mucho más.
+
+----
+
+Meta-keywords: 
+
+----
+
+Og-image: 
+
+----
+
+Uuid: sm3xEhovFJsimsbQ

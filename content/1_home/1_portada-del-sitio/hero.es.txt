@@ -1,0 +1,37 @@
+Title: Portada del sitio
+
+----
+
+Cover: - file://z8mhktthed8plikk
+
+----
+
+Headline: High Manufacturing Products
+
+----
+
+Buttons:
+
+- 
+  label: Nosotros
+  icon:
+    - file://xhldwq8esodka3le
+  link: page://qqlzie3zhufs6ebg
+- 
+  label: Servicios
+  icon:
+    - file://zaypwc4vmpmsqnja
+  link: page://fc2l9lnv6blobpxa
+- 
+  label: Contacto
+  icon:
+    - file://xaeopp6nyr60oaer
+  link: page://gs3qv30eczaccnrk
+
+----
+
+Text: 
+
+----
+
+Uuid: rysiy1fvagtulpfs

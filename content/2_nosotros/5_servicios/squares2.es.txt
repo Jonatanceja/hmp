@@ -1,0 +1,47 @@
+Title: Servicios
+
+----
+
+Squares:
+
+- 
+  icon:
+    - file://f4pw54uwujivfkik
+  title: Proveedor de Soluciones
+  text: >
+    Somos tu proveedor confiable de
+    soluciones industriales innovadoras,
+    eficientes y adaptadas a tus
+    necesidades.
+- 
+  icon:
+    - file://iuupgght6viabjj4
+  title: Soporte Técnico
+  text: >
+    Ofrecemos soporte técnico especializado
+    para mantener tus procesos siempre en
+    marcha, con atención rápida y
+    soluciones efectivas.
+- 
+  icon:
+    - file://zkzswrqdufud1evz
+  title: Personal de HMP
+  text: >
+    Contamos con un equipo altamente
+    capacitado, comprometido con la calidad,
+    la eficiencia y la mejora continua en
+    cada etapa del proceso.
+- 
+  icon:
+    - file://4xccqmhf2b2aeo2n
+  title: Garantía de Nuestros Productos
+  text: >
+    Respaldamos la calidad de nuestros
+    productos con garantía, asegurando su
+    correcto funcionamiento y ofreciendo
+    soporte en caso de cualquier
+    eventualidad.
+
+----
+
+Uuid: 8kdtizot6vsw6yz5

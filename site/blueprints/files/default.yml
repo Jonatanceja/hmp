@@ -1,0 +1,11 @@
+title: Imagenes default
+fields:
+  alt:
+    type: text
+    label: Texto alternativo
+  link:
+    type: url
+    label: Enlace
+  description:
+    type: textarea
+    label: Descripción
