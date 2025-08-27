@@ -34,7 +34,7 @@ Meta-keywords:
 
 ----
 
-Og-image: 
+Og-image: - file://zzldzybseytjyviu
 
 ----
 

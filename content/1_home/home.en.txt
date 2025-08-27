@@ -14,4 +14,4 @@ Meta-keywords:
 
 ----
 
-Og-image: 
+Og-image: - file://2qtl0powmf6dwdnz

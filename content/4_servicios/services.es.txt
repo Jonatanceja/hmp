@@ -14,7 +14,7 @@ Meta-keywords:
 
 ----
 
-Og-image: 
+Og-image: - file://xp1va3myrpueix1x
 
 ----
 

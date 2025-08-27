@@ -45,11 +45,11 @@ Extra:
 
 ----
 
-Meta-title: 
+Meta-title: Racks
 
 ----
 
-Meta-description: 
+Meta-description: Sistemas robustos para el almacenamiento y manejo eficiente de materiales industriales.
 
 ----
 
@@ -57,7 +57,7 @@ Meta-keywords:
 
 ----
 
-Og-image: 
+Og-image: - file://9ghfheilayjclqt3
 
 ----
 

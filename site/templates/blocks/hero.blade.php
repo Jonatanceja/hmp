@@ -15,7 +15,7 @@
                             <img src="{{ $icon->url() }}" alt="{{ $button->label() }}">
                         </div>
                         <div 
-                            class="opacity-0 translate-y-2 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300 ease-in-out mt-2 text-white font-bold uppercase text-center">
+                            class="md:opacity-0 translate-y-2 md:group-hover:opacity-100 md:group-hover:translate-y-0 transition-all duration-300 ease-in-out mt-2 text-white font-bold uppercase text-center">
                             {{ $button->label() }}
                         </div>
                     @endif

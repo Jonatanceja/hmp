@@ -31,7 +31,7 @@
                     </h2>
                 </div>
             </a>
-            <h2 class="text-white text-lg md:hidden block mt-3">{{ $product->title() }}</h2>
+            <h2 class="dark:text-white text-gray-700 text-lg md:hidden block mt-3">{{ $product->title() }}</h2>
         </div>
     @endforeach
 </section>
